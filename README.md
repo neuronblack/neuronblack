@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neuronblack
+- 👋 Hi, I’m neuronblack
 - 👀 I’m interested in deeplearning, recsys
 - 🌱 I’m currently learning nlp
 - 💞️ I’m looking to collaborate on chatbot
