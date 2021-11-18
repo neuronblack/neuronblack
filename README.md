@@ -1,6 +1,6 @@
 - 👋 Hi, I’m neuronblack
-- 👀 I’m interested in deeplearning, recsys
-- 🌱 I’m currently learning nlp
+- 👀 I’m interested in deeplearning, recsys, nlp
+- 🌱 I’m currently learning casual inference
 - 📫 How to reach me neuronblack@outlook.com
 
 <!---
