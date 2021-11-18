@@ -1,7 +1,6 @@
 - 👋 Hi, I’m neuronblack
 - 👀 I’m interested in deeplearning, recsys
 - 🌱 I’m currently learning nlp
-- 💞️ I’m looking to collaborate on chatbot
 - 📫 How to reach me neuronblack@outlook.com
 
 <!---
